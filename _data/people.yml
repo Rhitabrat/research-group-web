@@ -39,7 +39,7 @@ storm:
     image: /img/people/storm.png
 
 grad-a:
-    display_name: "Grad A"
+    display_name: "Steve"
     role: grad
 
 grad-b:

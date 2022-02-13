@@ -1,28 +1,23 @@
 ---
-title: Logo Project
+title: Xenolinguistics
 
 notitle: true
 
 description: |
-  This project has a sweet logo!
+  All about Xenolinguistics
 
 people:
-  - storm
+  - steve
   - grad-b
   - ugrad-c
 
 layout: project
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Xmencomic-logo.svg/2000px-Xmencomic-logo.svg.png"
-last-updated: 2017-04-11
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Yoda_Sculpt.jpg"
+last-updated: 2022-01-01
 ---
 
-Some preliminary text.
+Holaius
 
 ## header
 
-Maecenas _scelerisque ut enim non convallis_. Mauris ut nisl vitae mi dictum
-mollis. Pellentesque iaculis lacinia nisl viverra laoreet. Integer ac lacus quis
-elit varius mollis et ultrices tortor. Aliquam id dolor cursus, sagittis arcu
-tincidunt, scelerisque nisi. Morbi scelerisque feugiat mi in faucibus. Maecenas
-suscipit aliquet est et efficitur. Nullam sed purus nec nulla placerat ultrices
-ac at ipsum. Mauris a imperdiet eros.
+Xenolinguistics - Steve Briach.
