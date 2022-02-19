@@ -8,10 +8,6 @@ description: |
 
 people:
   - storm
-  - profx
-  - grad-b
-  - scott
-  - wolverine
 
 layout: project
 last-updated: 2015-05-05

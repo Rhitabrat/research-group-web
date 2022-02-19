@@ -1,164 +1,50 @@
-
 prof-a:
     display_name: "Ameeta Agrawal"
     role: faculty
     webpage: "http://web.cecs.pdx.edu/~ameeta/"
-    image: /img/people/prof-x.png
+    image: /img/people/prof-ameeta.png
     bio: Assistant Professor
-
-# prof-b:
-#     display_name: "Prof B"
-#     role: faculty
-
-# prof-c:
-#     display_name: "Prof C"
-#     role: faculty
-
-# profx:
-#     display_name: "Professor X"
-#     webpage: "http://en.wikipedia.org/wiki/Professor_X"
-#     github: profx
-#     role: faculty
-#     image: /img/people/prof-x.png
-#     bio: Professor
-
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
-
-# storm:
-#     display_name: "Storm"
-#     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-#     role: grad
-#     image: /img/people/storm.png
 
 grad-a:
     display_name: "Aaron Hudson"
+    bio: Masters
+    webpage: "mailto:ahuds2@pdx.edu"
     role: grad
 
 grad-b:
-    display_name: "Olubusayo Olabisi"
-    role: grad
-
-grad-c:
-    display_name: "Rhitabrat Pokharel"
-    role: grad
-
-grad-d:
     display_name: "Steve Braich"
     role: grad
+    webpage: "http://mt.steve3p0.com/"
+    bio: Masters
 
-# grad-e:
-#     display_name: "Grad E"
-#     role: grad
+grad-c:
+    display_name: "Yufei Tao"
+    role: grad
+    bio: Masters
 
-# grad-f:
-#     display_name: "Grad F"
-#     role: grad
+grad-d:
+    display_name: "Olubusayo Olabisi"
+    role: grad
+    webpage: "mailto:oolabisi@pdx.edu"
+    image: /img/people/grad-bisi.png
+    bio: PhD
 
-# grad-g:
-#     display_name: "Grad G"
-#     role: grad
+grad-e:
+    display_name: "Rhitabrat Pokharel"
+    role: grad
+    webpage: "http://rhitabrat.github.io/"
+    image: /img/people/grad-rhitabrat.png
+    bio: PhD
 
-# grad-h:
-#     display_name: "Grad H"
-#     role: grad
-
-# grad-i:
-#     display_name: "Grad I"
-#     role: grad
-
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
-# alum-b:
-#     display_name: "Alum B With Way Longer Name"
+# alum-a:
+#     display_name: "Alum A"
 #     role: alum
+#     bio: "Ph.D., 2013. Now at Microsoft Research."
 
-# alum-c:
-#     display_name: "Alum C"
-#     role: alum
-#     webpage: "https://www.google.com"
-
-# alum-d:
-#     display_name: "Alum D"
-#     role: alum
-
-# alum-e:
-#     display_name: "Alum E"
-#     role: alum
-
-# alum-f:
-#     display_name: "Alum F"
-#     role: alum
-
-# alum-g:
-#     display_name: "Alum G"
-#     role: alum
-
-# alum-h:
-#     display_name: "Alum H"
-#     role: alum
-
-# alum-i:
-#     display_name: "Alum I"
-#     role: alum
-
-collab-a:
-    display_name: "Collaborator A"
-    role: collab
-
-# collab-b:
-#     display_name: "Collaborator B With Long Name"
+# collab-a:
+#     display_name: "Collaborator A"
 #     role: collab
 
-# collab-c:
-#     display_name: "Collaborator C"
-#     role: collab
-
-# collab-d:
-#     display_name: "Collaborator D"
-#     role: collab
-
-# collab-e:
-#     display_name: "Collaborator E"
-#     role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
-
-# ugrad-b:
-#     display_name: "Ugrad Student B With Long Name"
+# ugrad-a:
+#     display_name: "Ugrad A"
 #     role: ugrad
-
-# ugrad-c:
-#     display_name: "Ugrad C"
-#     role: ugrad
-
-# ugrad-d:
-#     display_name: "Ugrad D"
-#     role: ugrad
-
-# ugrad-e:
-#     display_name: "Ugrad E"
-#     role: ugrad
-
-# ugrad-alum-a:
-#     display_name: "Past Ugrad A"
-#     role: ugrad-alum
-
-# ugrad-alum-b:
-#     display_name: "Past Ugrad Student B With Long Name"
-#     role: ugrad-alum
