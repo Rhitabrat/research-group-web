@@ -6,35 +6,37 @@ prof-a:
     bio: Assistant Professor
 
 grad-a:
-    display_name: "Aaron Hudson"
-    bio: Masters
-    webpage: "mailto:ahuds2@pdx.edu"
+    display_name: "Olubusayo Olabisi"
     role: grad
+    webpage: "mailto:oolabisi@pdx.edu"
+    image: /img/people/grad-bisi.png
+    bio: PhD, Summarization
 
 grad-b:
     display_name: "Steve Braich"
     role: grad
     webpage: "http://mt.steve3p0.com/"
-    bio: Masters
+    bio: Masters, Machine Translation
 
 grad-c:
-    display_name: "Yufei Tao"
+    display_name: "Aaron Hudson"
+    webpage: "mailto:ahuds2@pdx.edu"
     role: grad
-    bio: Masters
+    bio: Masters, Summarization
 
 grad-d:
-    display_name: "Olubusayo Olabisi"
-    role: grad
-    webpage: "mailto:oolabisi@pdx.edu"
-    image: /img/people/grad-bisi.png
-    bio: PhD
-
-grad-e:
     display_name: "Rhitabrat Pokharel"
     role: grad
     webpage: "http://rhitabrat.github.io/"
     image: /img/people/grad-rhitabrat.png
     bio: PhD
+
+grad-e:
+    display_name: "Yufei Tao"
+    role: grad
+    bio: Masters
+
+
 
 # alum-a:
 #     display_name: "Alum A"
